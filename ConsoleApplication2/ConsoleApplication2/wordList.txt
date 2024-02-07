@@ -1,0 +1,5 @@
+dog animal
+plane vehicle
+lemonade beverage
+tomato fruit
+watermelon fruit
